@@ -1,0 +1,2 @@
+# ML-SVM
+SVMs based on different kernels (linear, polynomial and Gaussian). The Kernel Trick helps us to actually visualize the non-linear datasets which are more complex and cant be solved or classified on the basis of a linear line. sklearn.decomposition.RandomizedPCA uses a principal component analysis (PCA) using randomized SVD (singular vector decomposition). By this operation, we keep the highest eigenvalues in order to keep less features but the most decisive and thus reduce the dimension of our dataset while keeping a good error.
